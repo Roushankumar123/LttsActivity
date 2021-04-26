@@ -1,0 +1,41 @@
+.align-center{
+  text-align: center;
+  margin: 20px;
+
+}
+.single-line{
+  margin: 15px;
+}
+
+
+label{
+  width: 100%;
+  font-size: 18px;
+  margin: 20px;
+} input{
+  padding: 6px;
+  
+}
+
+
+button{
+  padding: 10px 40px;
+  background:green;
+  color: white;
+  box-shadow: none;
+  border: none;
+  cursor: pointer;
+  margin: 10px 0;
+}
+.errorMsg{
+  color:royalblue;
+  font-size: 20px;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.error{
+  color: red;
+  font-size: 20px;
+  text-transform: capitalize;
+  font-weight: 600;
+}

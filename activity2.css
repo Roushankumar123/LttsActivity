@@ -1,0 +1,22 @@
+
+button{
+    padding: 10px 40px;
+    background:green;
+    color: white;
+    box-shadow: none;
+    border: none;
+    cursor: pointer;
+    margin: 10px 0;
+  }
+  .errorMsg{
+    color:royalblue;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 600;
+  }
+  .error{
+    color: red;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 600;
+  }
